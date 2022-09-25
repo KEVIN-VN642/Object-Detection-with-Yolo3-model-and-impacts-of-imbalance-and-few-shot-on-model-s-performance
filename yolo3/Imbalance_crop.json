@@ -1,0 +1,38 @@
+{
+    "model" : {
+        "min_input_size":       384,
+        "max_input_size":       384,
+        "anchors":              [3,4, 7,8, 12,15, 22,73, 23,25, 38,42, 53,82, 100,121, 188,299],
+        "labels":               ["Elephant", "Grants Gazelle" , "Giraffe", "Wildebeest"]
+    },
+
+    "train": {
+        "train_file":   "train/imbalance_crop.csv",
+        "train_times":          1,
+        "batch_size":           8,
+        "learning_rate":        1e-4,
+        "nb_epochs":            50,
+        "warmup_epochs":        2,
+        "ignore_thresh":        0.5,
+        "gpus":                 "1",
+        "grid_scales":          [1,1,1],
+        "obj_scale":            5,
+        "noobj_scale":          1,
+        "xywh_scale":           1,
+        "class_scale":          1,
+        "tensorboard_dir":      "logs",
+        "saved_weights_name":   "Imbalance_crop.h5",
+        "debug":                true
+    },
+
+    "valid": {
+        "valid_file":   "valid/imbalance_valid.csv",
+        "valid_times":          1
+    },
+    
+    "augmentation":{
+        "Flip":true,
+        "Scale": [0.6,1.4],
+        "Color_distort": [18,1.5,1.5]
+    }
+}

@@ -1,0 +1,19 @@
+#origin
+352-352
+batch_no: 4
+Elephant: 0.0011
+Giraffe: 0.0811
+Grants Gazelle: 0.0000
+Wildebeest: 0.1741
+mAP: 0.0641
+anchors: [2,2, 4,5, 6,8, 9,9, 11,15, 21,22, 30,40, 52,62, 94,96]
+
+#crop
+384-384
+Elephant: 0.2510
+Giraffe: 0.1444
+Grants Gazelle: 0.4054
+Wildebeest: 0.3304
+mAP: 0.2828
+anchors: [3,4, 7,8, 12,15, 22,73, 23,25, 38,42, 53,82, 100,121, 188,299]
+
