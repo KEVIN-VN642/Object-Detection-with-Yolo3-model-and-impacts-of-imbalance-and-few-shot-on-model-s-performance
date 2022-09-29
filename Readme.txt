@@ -1,3 +1,6 @@
+This project will dive deep into Yolo3 algorithm and use this model and image augmentation to work with imbalanced data as well as few-shot learning.
+Project will work with a part of Camera Trap dataset which is a really challenging dataset with high resolution and multiple objects in each images at different sizes
+
 Due to large volume of data and trained weights, I have to break some folders into smallers folders.
 Please read "Software Descriptions.xlsx" file to know the software hierarchy and know where to put files
 in each folder. For complete view and execution, please jump to "http://51.105.8.58/hub/user/kevin-vn642/lab" 
