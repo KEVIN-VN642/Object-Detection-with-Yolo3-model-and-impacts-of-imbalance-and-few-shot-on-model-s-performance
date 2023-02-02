@@ -5,6 +5,7 @@
 ## 1. Introduction:
 This project focus on understading deeply about the ideas and implementation of object detection model (YOLO3) that include:
 - Dealing with different data type format (for object detection)
+- Data Generator
 - Model architecture
 - Model performance metric
 - Loss function
