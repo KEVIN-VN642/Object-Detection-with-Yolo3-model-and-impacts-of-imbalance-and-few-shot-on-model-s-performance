@@ -10,6 +10,7 @@ This project focus on understading deeply about the ideas and implementation of 
 - Training and tuning model
 - Model prediction
 - Detailed implementation
+
 I also researched the impacts of class imbalance and few-shot learning (training model with limited samples) on model performance. This project is final thesis of my master degree in University of Glasgow.
 
 ## 2. 
