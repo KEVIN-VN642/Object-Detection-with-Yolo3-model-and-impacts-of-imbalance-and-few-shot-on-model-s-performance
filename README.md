@@ -11,6 +11,6 @@ This project focus on understading deeply about the ideas and implementation of 
 - Model prediction
 - Detailed implementation
 
-I also researched the impacts of class imbalance and few-shot learning (training model with limited samples) on model performance. This project is final thesis of my master degree in University of Glasgow.
+I also researched the impacts of class imbalance and few-shot learning (training model with limited samples) on model performance. This project is my master post-graduate thesis at University of Glasgow.
 
 ## 2. 
