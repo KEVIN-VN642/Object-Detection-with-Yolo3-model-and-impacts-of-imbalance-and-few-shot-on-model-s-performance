@@ -25,16 +25,17 @@ The data used in this project is "Camera-trap" dataset, images in the dataset ar
 ## 4. Results:
 Please find presentation slide for full results. Here, I attach some figures to illustrate the work:
 
-### Model architecture:
+### 4.1 Model architecture:
 ![model architecture](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/images/model_architecture.png)
 
-### Loss function:
+### 4.2 Loss function:
 ![Loss function](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/images/Loss%20function.png)
 
-### Parameter tuning:
+### 4.3 Parameter tuning:
 ![Parameter tuning](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/images/parameters%20tuning.png)
 
-### Model Performance before and after image augmentation:
+### 4.4 Model Performance before and after image augmentation:
+The image augmentation technique is used to improve model performance (assume that we only work with given images, no collecting images from other sources)
 
 ![results](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/images/Result%20table.png)
 
