@@ -6,7 +6,8 @@ Please take a look at files <b>presentation_slides.pptx</b> and <b>Software Desc
 1. [Introduction](#intro)
 2. [Software Riqurements](#software)
 3. [Data](#data)
-4. [Results and Findings](#results)
+4. [How to understand codes](#code)
+5. [Results and Findings](#results)
 
 ## 1. Introduction:<a id="intro"></a>
 This project focus on understading deeply about the design ideas and implementation of object detection model (YOLO3) that include:
@@ -28,13 +29,16 @@ The data used in this project is "Camera-trap" dataset, images in the dataset ar
 
 ![Sample Image](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/Sample%20Image.png)
 
-## 4. Results and findings:<a id="results"></a>
+## 4. How to understand code: <a id="code"></a>
+Please find details in Descriptions.xlsx for fully understand project codes.
+
+## 5. Results and findings:<a id="results"></a>
 Please find presentation slide for full results. Here, I attach some figures to illustrate the work:
 
-### 4.1 Model architecture:
+### 5.1 Model architecture:
 ![model architecture](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/images/model_architecture.png)
 
-### 4.2 Loss function:
+### 5.2 Loss function:
 Loss function has three components: classification, regression and confidence losses.
 
 ![Loss function](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/images/Loss%20function.png)
