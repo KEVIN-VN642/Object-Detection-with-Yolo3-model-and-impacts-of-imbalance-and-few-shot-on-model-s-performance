@@ -27,7 +27,7 @@ You need packages likes Keras, Tensorflow2.0, Numpy, Pandas, Matplotlib, Pillow,
 ## 3. Data:<a id="data"></a>
 The data used in this project is "Camera-trap" dataset, images in the dataset are high resolution with many objects in each image, the objects are at different sizes, many of them are small. Because of this, working with the dataset is much more challenging than normal dataset like COCO datasset or ImageNet and the model often has lower performance. Below is a sample image from the dataset:
 
-![Sample Image](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/Sample%20Image.png)
+![Sample Image](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/images/Sample%20Image.png)
 
 ## 4. How to understand code: <a id="code"></a>
 Please find details in <b>Software Descriptions.xlsx</b> for fully understand project codes.
