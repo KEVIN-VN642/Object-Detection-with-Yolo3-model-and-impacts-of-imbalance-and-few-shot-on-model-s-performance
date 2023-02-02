@@ -1,6 +1,6 @@
 # Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance
 
-Please take a look at <b>presentation_slides.pptx</b> and <b>Software Descriptions.xlsx</b> for fully understand the results and project structure.
+Please take a look at files <b>presentation_slides.pptx</b> and <b>Software Descriptions.xlsx</b> for fully understand the results and project structure.
 
 ### Table of Contents
 1. [Introduction](#intro)
