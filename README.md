@@ -30,7 +30,7 @@ The data used in this project is "Camera-trap" dataset, images in the dataset ar
 ![Sample Image](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/Sample%20Image.png)
 
 ## 4. How to understand code: <a id="code"></a>
-Please find details in Descriptions.xlsx for fully understand project codes.
+Please find details in <b>Software Descriptions.xlsx</b> for fully understand project codes.
 
 ## 5. Results and findings:<a id="results"></a>
 Please find presentation slide for full results. Here, I attach some figures to illustrate the work:
