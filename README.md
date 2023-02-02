@@ -1,10 +1,12 @@
 # Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance
 
+Please take a look at presentation slides for full results.
+
 ### Table of Contents
 1. [Introduction](#intro)
 2. [Software Riqurements](#software)
 3. [Data](#data)
-4. Results and Findings(#results)
+4. [Results and Findings](#results)
 
 ## 1. Introduction:<a id="intro"></a>
 This project focus on understading deeply about the design ideas and implementation of object detection model (YOLO3) that include:
