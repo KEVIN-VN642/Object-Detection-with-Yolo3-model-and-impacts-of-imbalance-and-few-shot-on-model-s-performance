@@ -29,6 +29,8 @@ Please find presentation slide for full results. Here, I attach some figures to 
 ![model architecture](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/images/model_architecture.png)
 
 ### 4.2 Loss function:
+Loss function has three components: classification, regression and confidence losses.
+
 ![Loss function](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/images/Loss%20function.png)
 
 ### 4.3 Parameter tuning:
