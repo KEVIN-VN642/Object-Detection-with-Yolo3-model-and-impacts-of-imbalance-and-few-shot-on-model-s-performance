@@ -1,8 +1,12 @@
 # Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance
 
+### Table of Contents
+1. [Introduction](#intro)
+2. [Software Riqurements](#software)
+3. [Data](#data)
+4. Results and Findings(#results)
 
-
-## 1. Introduction:
+## 1. Introduction:<a id="intro"></a>
 This project focus on understading deeply about the design ideas and implementation of object detection model (YOLO3) that include:
 - Dealing with different data type format (for object detection)
 - Data Generator
@@ -15,14 +19,14 @@ This project focus on understading deeply about the design ideas and implementat
 
 I also researched the impacts of class imbalance and few-shot learning (training model with limited samples) on model performance. This project is my master post-graduate thesis at University of Glasgow. Since the data is from University Lab which is not allowed to download and publicize, I will only show the result I got during the research.
 
-## 2. Software requirement:
+## 2. Software requirement:<a id="software"></a>
 You need packages likes Keras, Tensorflow2.0, Numpy, Pandas, Matplotlib, Pillow, OpenCV in order to execute the code (training model and Evaluation model)
-## 3. Data:
+## 3. Data:<a id="data"></a>
 The data used in this project is "Camera-trap" dataset, images in the dataset are high resolution with many objects in each image, the objects are at different sizes, many of them are small. Because of this, working with the dataset is much more challenging than normal dataset like COCO datasset or ImageNet and the model often has lower performance. Below is a sample image from the dataset:
 
 ![Sample Image](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/Sample%20Image.png)
 
-## 4. Results:
+## 4. Results and findings:<a id="results"></a>
 Please find presentation slide for full results. Here, I attach some figures to illustrate the work:
 
 ### 4.1 Model architecture:
