@@ -49,7 +49,7 @@ There are many parameters we could use to tune the model
 ![Parameter tuning](https://github.com/KEVIN-VN642/Object-Detection-with-Yolo3-model-and-impacts-of-imbalance-and-few-shot-on-model-s-performance/blob/main/yolo3/images/parameters%20tuning.png)
 
 ### 4.4 Model Performance before and after image augmentation & rebalance dataset:
-The image augmentation technique is used to improve model performance (assume that we only work with given images, no collecting images from other sources). Substantial improvement when applying augmentation technique (external augmentation)
+The image augmentation technique is used to improve model performance (assume that we only work with given images, no collecting images from other sources). Substantial improvement when applying augmentation techniques (external augmentation) and improve balancing issue for dataset.
 
 ![results](https://github.com/KEVIN-VN642/Object-Detection-YOLO3-Imbalance-and-Fewshot-Learning/blob/main/yolo3/images/Result%20Table.png)
 
